@@ -2,7 +2,7 @@
 
 This repository contains my personal notes on [DeepLearning.ai](https://deeplearning.ai) Deep Learning specialization courses.
 
-[DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The four courses are:
+[DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses are:
 
 1. [Neural Networks and Deep Learning](https://github.com/rahiakela/deep-learning-specialization/tree/main/course-1-neural-networks-and-deep-learning)
 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/rahiakela/deep-learning-specialization/tree/main/course-2-improving-deep-neural-networks)
@@ -56,4 +56,4 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 <br/>
 
-Rahi Akela © 2021
+Rahi Akela©2020
